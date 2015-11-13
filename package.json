@@ -1,0 +1,12 @@
+{
+  "name": "ImageUploadDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "avoscloud-sdk": "^1.0.0-rc4",
+    "react-native": "^0.14.2"
+  }
+}
