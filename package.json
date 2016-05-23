@@ -6,7 +6,7 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "avoscloud-sdk": "1.0.0-rc9",
+    "avoscloud-sdk": "^1.0.0-rc9",
     "react": "^0.14.8",
     "react-native": "^0.25.0-rc"
   }
