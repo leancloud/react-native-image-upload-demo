@@ -1,1 +1,1 @@
-requrie('./index.js');
+require('./index.js');
