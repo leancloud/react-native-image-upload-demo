@@ -4,8 +4,7 @@
  */
 'use strict';
 
-var React = require('react-native');
-var {
+import {
   AppRegistry,
   StyleSheet,
   Text,
@@ -14,7 +13,8 @@ var {
   ScrollView,
   Image,
   TouchableOpacity,
-} = React;
+} from 'react-native';
+import React from 'react';
 var AV = require('leancloud-storage');
 AV.initialize('NE1T3uRn8zjIWsmETEbsqpEu', '5K5HYy0wUmhryfKyQY2w1GtT');
 
