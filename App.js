@@ -82,11 +82,6 @@ const styles = StyleSheet.create({
     flex: 1,
     marginTop: 10,
   },
-  hint: {
-    fontSize: 16,
-    textAlign: 'center',
-    marginTop: 10,
-  },
   imageGrid: {
     flex: 1,
     flexDirection: 'row',
